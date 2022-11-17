@@ -19,7 +19,6 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.google.accompanist.flowlayout.FlowRow
 import com.manu.crypto.presentation.coin_list.components.CoinDetailViewModel
-import com.manu.crypto.presentation.coin_list.components.CoinsViewModel
 import com.manu.crypto.ui.theme.Purple200
 
 @Composable
