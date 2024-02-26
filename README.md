@@ -21,8 +21,8 @@ This an Android Application developed in Jetpack Compose that uses coinpaprika a
   cd CryptoApp
   ```
   ### UI
-Coins Screen
+# Coins Screen
 
-coins Details screen
+# coins Details screen
 ![detail1](https://github.com/Piexie3/CryptoApp/assets/106010697/5858ab94-b941-47ac-aac6-003bfa7deb7b)
 ![detail2](https://github.com/Piexie3/CryptoApp/assets/106010697/0fdc9ef3-8f5f-4ad2-a4d4-7730e49a0e0c)
