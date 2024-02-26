@@ -2,14 +2,14 @@
 
 This an Android Application developed in Jetpack Compose that uses coinpaprika api in fetching data
 # features built with:
--[x] CLEAN Architecture
--[x] Jetpack Compose
--[x] Retrofit
--[x] Hilt
--[x] Room
--[x] RaamCosta Navigation
--[x] Lottie Files and Coil
--[x] Accompanist
+- [x] CLEAN Architecture
+- [x] Jetpack Compose
+- [x] Retrofit
+- [x] Hilt
+- [x] Room
+- [x] RaamCosta Navigation
+- [x] Lottie Files and Coil
+- [x] Accompanist
 
 # Resources
 [coins api](https://api.coinpaprika.com)
