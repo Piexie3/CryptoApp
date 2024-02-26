@@ -12,7 +12,7 @@ This an Android Application developed in Jetpack Compose that uses coinpaprika a
 -[x] Accompanist
 
 # Resources
-(coins api)[https://api.coinpaprika.com]
+[coins api](https://api.coinpaprika.com)
 
 # How to get started
 - clone the project
